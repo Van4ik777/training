@@ -22,6 +22,9 @@ function App() {
           count is {count}
         </button>
         <p>I try to rebase</p>
+        <p>
+          Edit <code>Main s.tsx</code> and save to test HMR123
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn moregggggg
